@@ -1,0 +1,9 @@
+opencv-python
+pytesseract
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+jupyter
+ipykernel
